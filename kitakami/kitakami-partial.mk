@@ -13,11 +13,6 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	Bluetooth_cal \
-	General_cal \
-	Global_cal \
-	Hdmi_cal \
-	Headset_cal \
 	cmnlib_b00 \
 	cmnlib_b01 \
 	cmnlib_b02 \
