@@ -7,4 +7,4 @@ PRODUCT_COPY_FILES += \
     lib/libsonydseehxwrapper.so:system/lib/libsonydseehxwrapper.so \
     lib/libaudioroute.so:system/lib/libaudioroute.so \
     lib64/libsonydseehxwrapper.so:system/lib64/libsonydseehxwrapper.so \
-    lib64/libaudioroute.so:system/lib64/libaudioroute.so \
+    lib64/libaudioroute.so:system/lib64/libaudioroute.so
