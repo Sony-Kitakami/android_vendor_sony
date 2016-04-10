@@ -14,6 +14,8 @@
 
 LOCAL_PATH := $(call my-dir)
 
+ifeq (suzuran, $(TARGET_DEVICE))
+
 include $(CLEAR_VARS)
 LOCAL_MODULE := fw_bcmdhd
 LOCAL_MODULE_OWNER := Sony Mobile
