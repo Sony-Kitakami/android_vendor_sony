@@ -1,4 +1,4 @@
-LOCAL_PATH := vendor/sony/suzuran/proprietary
+LOCAL_PATH := vendor/sony/kitakami-suzuran/proprietary
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/lib/hw/audio.primary.msm8994.so:system/lib/hw/audio.primary.msm8994.so \
